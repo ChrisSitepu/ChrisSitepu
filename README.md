@@ -36,7 +36,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ChrisSitepu/ChrisSitepu/output/snake.svg" alt="Snake animation" />
-
-###
