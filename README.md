@@ -1,4 +1,4 @@
-![Header](img/github-header-image-chris.png)
+![Header](img/github-header-chris.png)
 #### Hello World! I'm Chrisedika Gratia Sitepu🤗
 
 
